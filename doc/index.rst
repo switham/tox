@@ -40,7 +40,7 @@ right next to your ``setup.py`` file::
 You can also try generating a ``tox.ini`` file automatically, by running
 ``tox-quickstart`` and then answering a few simple questions.
 
-To sdist-package, install and test your project against Python2.7 and Python3.6, just type::
+Now, to package, install and test your project against Python2.7 and Python3.6, just type::
 
     tox
 
